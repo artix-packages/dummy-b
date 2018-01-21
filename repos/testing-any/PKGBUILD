@@ -7,7 +7,7 @@
 pkgname=('dummy-b-foo' 'dummy-b-bar')
 pkgbase=dummy-b
 pkgver=9999
-pkgrel=2
+pkgrel=3
 pkgdesc="dummy b"
 arch=(any)
 url="https://github.com/artix-packages/dummy-a"
